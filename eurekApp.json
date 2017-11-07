@@ -6,6 +6,11 @@
 			"image": "img/capture_portailce.png",
 			"titre": "Site du CE",
 			"description": "\n                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque lobortis aliquam pulvinar. Nam et porta urna, a ornare ipsum. Vivamus vel rhoncus felis.\n                    "
+		},
+		{
+			"image": "https://cdn.rawgit.com/MaevaDbg/MavoTest/65711c0e9df2c87b80a7f657a6948b59a7378399/images/capture_site_philharmonie.JPG",
+			"titre": "Site PP",
+			"description": "Test Mavo storage"
 		}
 	]
 }
