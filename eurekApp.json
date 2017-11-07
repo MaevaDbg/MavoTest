@@ -1,0 +1,11 @@
+{
+	"intro": "Bienvenue sur le portail de la Philharmonie de Paris !!!",
+	"lienRapide": [
+		{
+			"lien": "https://ce-philharmonie.portailce.com",
+			"image": "img/capture_portailce.png",
+			"titre": "Site du CE",
+			"description": "\n                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque lobortis aliquam pulvinar. Nam et porta urna, a ornare ipsum. Vivamus vel rhoncus felis.\n                    "
+		}
+	]
+}
